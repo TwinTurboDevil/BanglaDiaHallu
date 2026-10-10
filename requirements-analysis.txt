@@ -1,0 +1,11 @@
+# Statistical analysis and figures (analysis/Statistical_Analysis.py) - versions used for the paper
+# Python 3.11
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+statsmodels==0.15.0
+matplotlib==3.10.9
+openpyxl==3.1.5
+pillow==12.2.0
+# only for tools/extract_responses_from_docx.py
+python-docx==1.2.0

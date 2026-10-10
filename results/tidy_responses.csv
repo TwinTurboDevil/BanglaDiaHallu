@@ -1,0 +1,401 @@
+question,iteration,config,MA,COMP,SAFE,READ,domain
+1,1,Qwen3.5-9B,0.6,0.6,0.6,0.85,Dietary
+1,1,TigerLLM-9B,0.83,0.85,0.95,0.9,Dietary
+1,1,Qwen3.6-35B-A3B,0.4,0.7,0.4,0.6,Dietary
+1,1,Gemma-4-26B-A4B,0.88,0.85,0.95,0.95,Dietary
+1,1,BanglaDiaRAG,0.88,0.8,0.93,0.92,Dietary
+1,2,Qwen3.5-9B,0.6,0.7,0.7,0.85,Dietary
+1,2,TigerLLM-9B,0.84,0.85,0.95,0.9,Dietary
+1,2,Qwen3.6-35B-A3B,0.45,0.7,0.45,0.65,Dietary
+1,2,Gemma-4-26B-A4B,0.9,0.86,0.92,0.95,Dietary
+1,2,BanglaDiaRAG,0.94,0.95,0.94,0.93,Dietary
+2,1,Qwen3.5-9B,0.6,0.6,0.7,0.82,Dietary
+2,1,TigerLLM-9B,0.85,0.85,0.95,0.9,Dietary
+2,1,Qwen3.6-35B-A3B,0.75,0.7,0.7,0.9,Dietary
+2,1,Gemma-4-26B-A4B,0.91,0.9,0.93,0.95,Dietary
+2,1,BanglaDiaRAG,0.87,0.82,0.92,0.94,Dietary
+2,2,Qwen3.5-9B,0.5,0.6,0.4,0.82,Dietary
+2,2,TigerLLM-9B,0.86,0.85,0.95,0.9,Dietary
+2,2,Qwen3.6-35B-A3B,0.65,0.7,0.5,0.85,Dietary
+2,2,Gemma-4-26B-A4B,0.9400000000000001,0.91,0.94,0.95,Dietary
+2,2,BanglaDiaRAG,0.95,0.94,0.9,0.93,Dietary
+3,1,Qwen3.5-9B,0.3,0.5,0.3,0.75,Dietary
+3,1,TigerLLM-9B,0.66,0.8,0.6,0.8,Dietary
+3,1,Qwen3.6-35B-A3B,0.7,0.75,0.75,0.8,Dietary
+3,1,Gemma-4-26B-A4B,0.86,0.88,0.9,0.95,Dietary
+3,1,BanglaDiaRAG,0.63,0.73,0.5,0.9,Dietary
+3,2,Qwen3.5-9B,0.75,0.8,0.8,0.85,Dietary
+3,2,TigerLLM-9B,0.86,0.85,0.95,0.9,Dietary
+3,2,Qwen3.6-35B-A3B,0.6,0.7,0.5,0.75,Dietary
+3,2,Gemma-4-26B-A4B,0.89,0.9,0.91,0.95,Dietary
+3,2,BanglaDiaRAG,0.86,0.8,0.82,0.88,Dietary
+4,1,Qwen3.5-9B,0.55,0.6,0.6,0.8,Dietary
+4,1,TigerLLM-9B,0.85,0.9,0.95,0.95,Dietary
+4,1,Qwen3.6-35B-A3B,0.9,0.8,0.9,0.9,Dietary
+4,1,Gemma-4-26B-A4B,0.9,0.92,0.96,0.95,Dietary
+4,1,BanglaDiaRAG,0.9,0.88,0.93,0.9,Dietary
+4,2,Qwen3.5-9B,0.5,0.6,0.7,0.6,Dietary
+4,2,TigerLLM-9B,0.85,0.9,0.95,0.95,Dietary
+4,2,Qwen3.6-35B-A3B,0.9,0.9,0.9,0.9,Dietary
+4,2,Gemma-4-26B-A4B,0.88,0.91,0.95,0.95,Dietary
+4,2,BanglaDiaRAG,0.93,0.93,0.94,0.87,Dietary
+5,1,Qwen3.5-9B,0.4,0.6,0.4,0.7,Dietary
+5,1,TigerLLM-9B,0.66,0.5,0.8,0.7,Dietary
+5,1,Qwen3.6-35B-A3B,0.45,0.6,0.4,0.65,Dietary
+5,1,Gemma-4-26B-A4B,0.32,0.5,0.3,0.85,Dietary
+5,1,BanglaDiaRAG,0.92,0.92,0.91,0.92,Dietary
+5,2,Qwen3.5-9B,0.3,0.5,0.3,0.4,Dietary
+5,2,TigerLLM-9B,0.79,0.8,0.9,0.9,Dietary
+5,2,Qwen3.6-35B-A3B,0.65,0.7,0.6,0.8,Dietary
+5,2,Gemma-4-26B-A4B,0.87,0.9,0.9,0.9,Dietary
+5,2,BanglaDiaRAG,0.86,0.93,0.89,0.92,Dietary
+6,1,Qwen3.5-9B,0.3,0.4,0.3,0.2,Dietary
+6,1,TigerLLM-9B,0.87,0.9,0.95,0.95,Dietary
+6,1,Qwen3.6-35B-A3B,0.36,0.6,0.4,0.5,Dietary
+6,1,Gemma-4-26B-A4B,0.9,0.88,0.92,0.95,Dietary
+6,1,BanglaDiaRAG,0.87,0.85,0.92,0.93,Dietary
+6,2,Qwen3.5-9B,0.3,0.45,0.3,0.4,Dietary
+6,2,TigerLLM-9B,0.86,0.9,0.95,0.95,Dietary
+6,2,Qwen3.6-35B-A3B,0.65,0.75,0.6,0.8,Dietary
+6,2,Gemma-4-26B-A4B,0.88,0.87,0.93,0.95,Dietary
+6,2,BanglaDiaRAG,0.92,0.94,0.93,0.93,Dietary
+7,1,Qwen3.5-9B,0.2,0.6,0.0,0.3,Dietary
+7,1,TigerLLM-9B,0.83,0.85,0.9,0.9,Dietary
+7,1,Qwen3.6-35B-A3B,0.7,0.75,0.7,0.8,Dietary
+7,1,Gemma-4-26B-A4B,0.89,0.9,0.96,0.95,Dietary
+7,1,BanglaDiaRAG,0.91,0.92,0.95,0.92,Dietary
+7,2,Qwen3.5-9B,0.5,0.6,0.6,0.3,Dietary
+7,2,TigerLLM-9B,0.84,0.85,0.9,0.9,Dietary
+7,2,Qwen3.6-35B-A3B,0.6,0.7,0.75,0.8,Dietary
+7,2,Gemma-4-26B-A4B,0.86,0.88,0.95,0.95,Dietary
+7,2,BanglaDiaRAG,0.95,0.95,0.95,0.92,Dietary
+8,1,Qwen3.5-9B,0.5,0.6,0.5,0.3,Dietary
+8,1,TigerLLM-9B,0.76,0.8,0.7,0.5,Dietary
+8,1,Qwen3.6-35B-A3B,0.7,0.8,0.7,0.8,Dietary
+8,1,Gemma-4-26B-A4B,0.9,0.9,0.93,0.95,Dietary
+8,1,BanglaDiaRAG,0.89,0.9,0.93,0.93,Dietary
+8,2,Qwen3.5-9B,0.3,0.5,0.6,0.3,Dietary
+8,2,TigerLLM-9B,0.83,0.85,0.9,0.8,Dietary
+8,2,Qwen3.6-35B-A3B,0.6,0.8,0.5,0.8,Dietary
+8,2,Gemma-4-26B-A4B,0.86,0.92,0.93,0.95,Dietary
+8,2,BanglaDiaRAG,0.93,0.95,0.93,0.93,Dietary
+9,1,Qwen3.5-9B,0.2,0.5,0.3,0.2,Dietary
+9,1,TigerLLM-9B,0.86,0.9,0.9,0.9,Dietary
+9,1,Qwen3.6-35B-A3B,0.6,0.75,0.5,0.75,Dietary
+9,1,Gemma-4-26B-A4B,0.87,0.85,0.95,0.95,Dietary
+9,1,BanglaDiaRAG,0.55,0.65,0.5,0.88,Dietary
+9,2,Qwen3.5-9B,0.3,0.5,0.4,0.2,Dietary
+9,2,TigerLLM-9B,0.87,0.9,0.9,0.95,Dietary
+9,2,Qwen3.6-35B-A3B,0.4,0.7,0.2,0.6,Dietary
+9,2,Gemma-4-26B-A4B,0.9,0.91,0.94,0.95,Dietary
+9,2,BanglaDiaRAG,0.85,0.75,0.8,0.91,Dietary
+10,1,Qwen3.5-9B,0.65,0.7,0.6,0.7,Medication and insulin
+10,1,TigerLLM-9B,0.85,0.95,0.9,0.9,Medication and insulin
+10,1,Qwen3.6-35B-A3B,0.9,0.9,0.85,0.95,Medication and insulin
+10,1,Gemma-4-26B-A4B,0.91,0.87,0.94,0.95,Medication and insulin
+10,1,BanglaDiaRAG,0.92,0.86,0.94,0.95,Medication and insulin
+10,2,Qwen3.5-9B,0.6,0.7,0.4,0.6,Medication and insulin
+10,2,TigerLLM-9B,0.88,0.9,0.9,0.9,Medication and insulin
+10,2,Qwen3.6-35B-A3B,0.85,0.7,0.8,0.9,Medication and insulin
+10,2,Gemma-4-26B-A4B,0.9400000000000001,0.89,0.93,0.95,Medication and insulin
+10,2,BanglaDiaRAG,0.92,0.85,0.94,0.95,Medication and insulin
+11,1,Qwen3.5-9B,0.55,0.65,0.7,0.6,Medication and insulin
+11,1,TigerLLM-9B,0.84,0.9,0.9,0.95,Medication and insulin
+11,1,Qwen3.6-35B-A3B,0.5,0.8,0.4,0.85,Medication and insulin
+11,1,Gemma-4-26B-A4B,0.9,0.86,0.92,0.95,Medication and insulin
+11,1,BanglaDiaRAG,0.88,0.9,0.92,0.9,Medication and insulin
+11,2,Qwen3.5-9B,0.4,0.75,0.7,0.65,Medication and insulin
+11,2,TigerLLM-9B,0.86,0.95,0.9,0.9,Medication and insulin
+11,2,Qwen3.6-35B-A3B,0.9,0.75,0.95,0.9,Medication and insulin
+11,2,Gemma-4-26B-A4B,0.87,0.88,0.94,0.95,Medication and insulin
+11,2,BanglaDiaRAG,0.65,0.85,0.5,0.9,Medication and insulin
+12,1,Qwen3.5-9B,0.6,0.75,0.6,0.85,Medication and insulin
+12,1,TigerLLM-9B,0.71,0.7,0.5,0.4,Medication and insulin
+12,1,Qwen3.6-35B-A3B,0.9,0.9,0.88,0.95,Medication and insulin
+12,1,Gemma-4-26B-A4B,0.92,0.9,0.96,0.95,Medication and insulin
+12,1,BanglaDiaRAG,0.88,0.85,0.9,0.93,Medication and insulin
+12,2,Qwen3.5-9B,0.7,0.7,0.7,0.85,Medication and insulin
+12,2,TigerLLM-9B,0.83,0.9,0.9,0.9,Medication and insulin
+12,2,Qwen3.6-35B-A3B,0.8,0.8,0.9,0.8,Medication and insulin
+12,2,Gemma-4-26B-A4B,0.9,0.9,0.95,0.95,Medication and insulin
+12,2,BanglaDiaRAG,0.95,0.92,0.94,0.93,Medication and insulin
+13,1,Qwen3.5-9B,0.6,0.8,0.6,0.8,Medication and insulin
+13,1,TigerLLM-9B,0.84,0.9,0.9,0.9,Medication and insulin
+13,1,Qwen3.6-35B-A3B,0.9,0.9,0.9,0.95,Medication and insulin
+13,1,Gemma-4-26B-A4B,0.85,0.91,0.94,0.95,Medication and insulin
+13,1,BanglaDiaRAG,0.88,0.89,0.92,0.9,Medication and insulin
+13,2,Qwen3.5-9B,0.75,0.6,0.7,0.8,Medication and insulin
+13,2,TigerLLM-9B,0.84,0.9,0.9,0.9,Medication and insulin
+13,2,Qwen3.6-35B-A3B,0.87,0.9,0.9,0.88,Medication and insulin
+13,2,Gemma-4-26B-A4B,0.9,0.92,0.95,0.95,Medication and insulin
+13,2,BanglaDiaRAG,0.9,0.85,0.92,0.9,Medication and insulin
+14,1,Qwen3.5-9B,0.65,0.7,0.6,0.7,Medication and insulin
+14,1,TigerLLM-9B,0.86,0.9,0.9,0.9,Medication and insulin
+14,1,Qwen3.6-35B-A3B,0.95,0.9,0.9,0.95,Medication and insulin
+14,1,Gemma-4-26B-A4B,0.87,0.89,0.93,0.95,Medication and insulin
+14,1,BanglaDiaRAG,0.92,0.92,0.92,0.93,Medication and insulin
+14,2,Qwen3.5-9B,0.7,0.7,0.7,0.6,Medication and insulin
+14,2,TigerLLM-9B,0.86,0.9,0.95,0.9,Medication and insulin
+14,2,Qwen3.6-35B-A3B,0.95,0.9,0.9,0.95,Medication and insulin
+14,2,Gemma-4-26B-A4B,0.91,0.86,0.94,0.95,Medication and insulin
+14,2,BanglaDiaRAG,0.88,0.85,0.92,0.93,Medication and insulin
+15,1,Qwen3.5-9B,0.65,0.75,0.7,0.75,Medication and insulin
+15,1,TigerLLM-9B,0.86,0.9,0.9,0.9,Medication and insulin
+15,1,Qwen3.6-35B-A3B,0.85,0.9,0.95,0.95,Medication and insulin
+15,1,Gemma-4-26B-A4B,0.84,0.89,0.95,0.95,Medication and insulin
+15,1,BanglaDiaRAG,0.89,0.9,0.9,0.93,Medication and insulin
+15,2,Qwen3.5-9B,0.6,0.7,0.2,0.75,Medication and insulin
+15,2,TigerLLM-9B,0.81,0.9,0.9,0.9,Medication and insulin
+15,2,Qwen3.6-35B-A3B,0.9,0.75,0.95,0.95,Medication and insulin
+15,2,Gemma-4-26B-A4B,0.88,0.9,0.95,0.95,Medication and insulin
+15,2,BanglaDiaRAG,0.95,0.95,0.93,0.92,Medication and insulin
+16,1,Qwen3.5-9B,0.6,0.75,0.65,0.4,Medication and insulin
+16,1,TigerLLM-9B,0.8200000000000001,0.9,0.9,0.9,Medication and insulin
+16,1,Qwen3.6-35B-A3B,0.8,0.75,0.8,0.9,Medication and insulin
+16,1,Gemma-4-26B-A4B,0.89,0.88,0.97,0.95,Medication and insulin
+16,1,BanglaDiaRAG,0.88,0.88,0.94,0.95,Medication and insulin
+16,2,Qwen3.5-9B,0.8,0.8,0.8,0.85,Medication and insulin
+16,2,TigerLLM-9B,0.85,0.9,0.9,0.9,Medication and insulin
+16,2,Qwen3.6-35B-A3B,0.92,0.95,0.95,0.95,Medication and insulin
+16,2,Gemma-4-26B-A4B,0.9,0.9,0.97,0.95,Medication and insulin
+16,2,BanglaDiaRAG,0.92,0.93,0.94,0.93,Medication and insulin
+17,1,Qwen3.5-9B,0.5,0.6,0.2,0.3,Lifestyle and exercise
+17,1,TigerLLM-9B,0.87,0.9,0.9,0.9,Lifestyle and exercise
+17,1,Qwen3.6-35B-A3B,0.9,0.95,0.9,0.95,Lifestyle and exercise
+17,1,Gemma-4-26B-A4B,0.94,0.89,0.92,0.95,Lifestyle and exercise
+17,1,BanglaDiaRAG,0.92,0.93,0.92,0.93,Lifestyle and exercise
+17,2,Qwen3.5-9B,0.35,0.6,0.3,0.2,Lifestyle and exercise
+17,2,TigerLLM-9B,0.85,0.9,0.9,0.8,Lifestyle and exercise
+17,2,Qwen3.6-35B-A3B,0.75,0.85,0.8,0.9,Lifestyle and exercise
+17,2,Gemma-4-26B-A4B,0.95,0.88,0.93,0.95,Lifestyle and exercise
+17,2,BanglaDiaRAG,0.6,0.85,0.5,0.9,Lifestyle and exercise
+18,1,Qwen3.5-9B,0.6,0.6,0.7,0.4,Lifestyle and exercise
+18,1,TigerLLM-9B,0.88,0.9,0.9,0.95,Lifestyle and exercise
+18,1,Qwen3.6-35B-A3B,0.9,0.95,0.95,0.95,Lifestyle and exercise
+18,1,Gemma-4-26B-A4B,0.9,0.92,0.95,0.95,Lifestyle and exercise
+18,1,BanglaDiaRAG,0.88,0.91,0.94,0.93,Lifestyle and exercise
+18,2,Qwen3.5-9B,0.5,0.4,0.75,0.35,Lifestyle and exercise
+18,2,TigerLLM-9B,0.88,0.9,0.9,0.9,Lifestyle and exercise
+18,2,Qwen3.6-35B-A3B,0.85,0.9,0.95,0.9,Lifestyle and exercise
+18,2,Gemma-4-26B-A4B,0.89,0.92,0.95,0.95,Lifestyle and exercise
+18,2,BanglaDiaRAG,0.9,0.9,0.94,0.93,Lifestyle and exercise
+19,1,Qwen3.5-9B,0.7,0.7,0.7,0.5,Lifestyle and exercise
+19,1,TigerLLM-9B,0.83,0.9,0.9,0.9,Lifestyle and exercise
+19,1,Qwen3.6-35B-A3B,0.92,0.92,0.9,0.95,Lifestyle and exercise
+19,1,Gemma-4-26B-A4B,0.9,0.9,0.94,0.95,Lifestyle and exercise
+19,1,BanglaDiaRAG,0.95,0.93,0.94,0.95,Lifestyle and exercise
+19,2,Qwen3.5-9B,0.6,0.7,0.6,0.3,Lifestyle and exercise
+19,2,TigerLLM-9B,0.86,0.9,0.9,0.9,Lifestyle and exercise
+19,2,Qwen3.6-35B-A3B,0.9,0.9,0.9,0.88,Lifestyle and exercise
+19,2,Gemma-4-26B-A4B,0.87,0.89,0.94,0.95,Lifestyle and exercise
+19,2,BanglaDiaRAG,0.92,0.93,0.94,0.95,Lifestyle and exercise
+20,1,Qwen3.5-9B,0.7,0.7,0.7,0.8,Lifestyle and exercise
+20,1,TigerLLM-9B,0.86,0.9,0.9,0.95,Lifestyle and exercise
+20,1,Qwen3.6-35B-A3B,0.93,0.9,0.9,0.95,Lifestyle and exercise
+20,1,Gemma-4-26B-A4B,0.89,0.88,0.93,0.95,Lifestyle and exercise
+20,1,BanglaDiaRAG,0.92,0.92,0.92,0.93,Lifestyle and exercise
+20,2,Qwen3.5-9B,0.5,0.5,0.55,0.8,Lifestyle and exercise
+20,2,TigerLLM-9B,0.91,0.9,0.9,0.9,Lifestyle and exercise
+20,2,Qwen3.6-35B-A3B,0.88,0.85,0.9,0.95,Lifestyle and exercise
+20,2,Gemma-4-26B-A4B,0.86,0.87,0.95,0.95,Lifestyle and exercise
+20,2,BanglaDiaRAG,0.87,0.85,0.88,0.92,Lifestyle and exercise
+21,1,Qwen3.5-9B,0.75,0.75,0.8,0.7,Lifestyle and exercise
+21,1,TigerLLM-9B,0.87,0.9,0.95,0.8,Lifestyle and exercise
+21,1,Qwen3.6-35B-A3B,0.92,0.93,0.9,0.95,Lifestyle and exercise
+21,1,Gemma-4-26B-A4B,0.93,0.93,0.96,0.95,Lifestyle and exercise
+21,1,BanglaDiaRAG,0.92,0.9,0.94,0.9,Lifestyle and exercise
+21,2,Qwen3.5-9B,0.7,0.7,0.8,0.75,Lifestyle and exercise
+21,2,TigerLLM-9B,0.84,0.9,0.9,0.8,Lifestyle and exercise
+21,2,Qwen3.6-35B-A3B,0.9,0.88,0.9,0.95,Lifestyle and exercise
+21,2,Gemma-4-26B-A4B,0.95,0.91,0.94,0.95,Lifestyle and exercise
+21,2,BanglaDiaRAG,0.92,0.9,0.94,0.93,Lifestyle and exercise
+22,1,Qwen3.5-9B,0.7,0.8,0.65,0.6,Complications and safety
+22,1,TigerLLM-9B,0.85,0.9,0.9,0.85,Complications and safety
+22,1,Qwen3.6-35B-A3B,0.9,0.95,0.9,0.95,Complications and safety
+22,1,Gemma-4-26B-A4B,0.95,0.88,0.95,0.95,Complications and safety
+22,1,BanglaDiaRAG,0.94,0.93,0.94,0.93,Complications and safety
+22,2,Qwen3.5-9B,0.4,0.65,0.5,0.4,Complications and safety
+22,2,TigerLLM-9B,0.85,0.95,0.9,0.9,Complications and safety
+22,2,Qwen3.6-35B-A3B,0.9,0.95,0.9,0.95,Complications and safety
+22,2,Gemma-4-26B-A4B,0.92,0.9,0.96,0.95,Complications and safety
+22,2,BanglaDiaRAG,0.58,0.7,0.5,0.93,Complications and safety
+23,1,Qwen3.5-9B,0.5,0.6,0.6,0.3,Complications and safety
+23,1,TigerLLM-9B,0.86,0.9,0.9,0.95,Complications and safety
+23,1,Qwen3.6-35B-A3B,0.88,0.92,0.88,0.95,Complications and safety
+23,1,Gemma-4-26B-A4B,0.93,0.92,0.93,0.95,Complications and safety
+23,1,BanglaDiaRAG,0.93,0.92,0.94,0.92,Complications and safety
+23,2,Qwen3.5-9B,0.5,0.6,0.6,0.3,Complications and safety
+23,2,TigerLLM-9B,0.91,0.9,0.9,0.9,Complications and safety
+23,2,Qwen3.6-35B-A3B,0.9,0.9,0.9,0.95,Complications and safety
+23,2,Gemma-4-26B-A4B,0.94,0.91,0.94,0.95,Complications and safety
+23,2,BanglaDiaRAG,0.93,0.94,0.94,0.95,Complications and safety
+24,1,Qwen3.5-9B,0.4,0.7,0.4,0.3,Complications and safety
+24,1,TigerLLM-9B,0.81,0.8,0.85,0.75,Complications and safety
+24,1,Qwen3.6-35B-A3B,0.85,0.9,0.82,0.85,Complications and safety
+24,1,Gemma-4-26B-A4B,0.95,0.95,0.96,0.95,Complications and safety
+24,1,BanglaDiaRAG,0.88,0.94,0.82,0.93,Complications and safety
+24,2,Qwen3.5-9B,0.4,0.7,0.45,0.3,Complications and safety
+24,2,TigerLLM-9B,0.91,0.9,0.9,0.8,Complications and safety
+24,2,Qwen3.6-35B-A3B,0.9,0.88,0.85,0.9,Complications and safety
+24,2,Gemma-4-26B-A4B,0.94,0.96,0.95,0.95,Complications and safety
+24,2,BanglaDiaRAG,0.93,0.86,0.9,0.9,Complications and safety
+25,1,Qwen3.5-9B,0.65,0.65,0.6,0.4,Complications and safety
+25,1,TigerLLM-9B,0.83,0.8,0.9,0.85,Complications and safety
+25,1,Qwen3.6-35B-A3B,0.9,0.95,0.9,0.95,Complications and safety
+25,1,Gemma-4-26B-A4B,0.92,0.9,0.94,0.95,Complications and safety
+25,1,BanglaDiaRAG,0.92,0.85,0.92,0.93,Complications and safety
+25,2,Qwen3.5-9B,0.5,0.6,0.6,0.5,Complications and safety
+25,2,TigerLLM-9B,0.85,0.8,0.9,0.85,Complications and safety
+25,2,Qwen3.6-35B-A3B,0.86,0.85,0.9,0.95,Complications and safety
+25,2,Gemma-4-26B-A4B,0.9,0.92,0.94,0.95,Complications and safety
+25,2,BanglaDiaRAG,0.94,0.95,0.86,0.93,Complications and safety
+26,1,Qwen3.5-9B,0.2,0.5,0.4,0.85,Complications and safety
+26,1,TigerLLM-9B,0.77,0.95,0.8,0.8,Complications and safety
+26,1,Qwen3.6-35B-A3B,0.85,0.9,0.7,0.7,Complications and safety
+26,1,Gemma-4-26B-A4B,0.87,0.88,0.95,0.95,Complications and safety
+26,1,BanglaDiaRAG,0.68,0.85,0.75,0.88,Complications and safety
+26,2,Qwen3.5-9B,0.7,0.65,0.75,0.85,Complications and safety
+26,2,TigerLLM-9B,0.84,0.85,0.9,0.9,Complications and safety
+26,2,Qwen3.6-35B-A3B,0.9,0.95,0.85,0.95,Complications and safety
+26,2,Gemma-4-26B-A4B,0.9,0.9,0.94,0.95,Complications and safety
+26,2,BanglaDiaRAG,0.88,0.9,0.88,0.93,Complications and safety
+27,1,Qwen3.5-9B,0.7,0.7,0.6,0.75,Symptoms and early detection
+27,1,TigerLLM-9B,0.86,0.9,0.9,0.9,Symptoms and early detection
+27,1,Qwen3.6-35B-A3B,0.78,0.85,0.85,0.9,Symptoms and early detection
+27,1,Gemma-4-26B-A4B,0.84,0.89,0.93,0.95,Symptoms and early detection
+27,1,BanglaDiaRAG,0.94,0.94,0.94,0.92,Symptoms and early detection
+27,2,Qwen3.5-9B,0.6,0.7,0.6,0.7,Symptoms and early detection
+27,2,TigerLLM-9B,0.77,0.8,0.85,0.5,Symptoms and early detection
+27,2,Qwen3.6-35B-A3B,0.83,0.85,0.85,0.9,Symptoms and early detection
+27,2,Gemma-4-26B-A4B,0.87,0.88,0.94,0.95,Symptoms and early detection
+27,2,BanglaDiaRAG,0.94,0.95,0.94,0.93,Symptoms and early detection
+28,1,Qwen3.5-9B,0.6,0.6,0.6,0.8,Symptoms and early detection
+28,1,TigerLLM-9B,0.86,0.95,0.9,0.9,Symptoms and early detection
+28,1,Qwen3.6-35B-A3B,0.75,0.4,0.85,0.9,Symptoms and early detection
+28,1,Gemma-4-26B-A4B,0.92,0.93,0.95,0.95,Symptoms and early detection
+28,1,BanglaDiaRAG,0.92,0.92,0.94,0.93,Symptoms and early detection
+28,2,Qwen3.5-9B,0.5,0.75,0.6,0.8,Symptoms and early detection
+28,2,TigerLLM-9B,0.81,0.8,0.9,0.9,Symptoms and early detection
+28,2,Qwen3.6-35B-A3B,0.85,0.85,0.95,0.8,Symptoms and early detection
+28,2,Gemma-4-26B-A4B,0.9500000000000001,0.95,0.97,0.95,Symptoms and early detection
+28,2,BanglaDiaRAG,0.85,0.88,0.85,0.93,Symptoms and early detection
+29,1,Qwen3.5-9B,0.5,0.6,0.6,0.2,Symptoms and early detection
+29,1,TigerLLM-9B,0.85,0.9,0.9,0.9,Symptoms and early detection
+29,1,Qwen3.6-35B-A3B,0.9,0.95,0.9,0.95,Symptoms and early detection
+29,1,Gemma-4-26B-A4B,0.88,0.9,0.95,0.95,Symptoms and early detection
+29,1,BanglaDiaRAG,0.95,0.95,0.92,0.85,Symptoms and early detection
+29,2,Qwen3.5-9B,0.7,0.75,0.6,0.6,Symptoms and early detection
+29,2,TigerLLM-9B,0.86,0.9,0.9,0.9,Symptoms and early detection
+29,2,Qwen3.6-35B-A3B,0.92,0.95,0.9,0.95,Symptoms and early detection
+29,2,Gemma-4-26B-A4B,0.87,0.91,0.95,0.95,Symptoms and early detection
+29,2,BanglaDiaRAG,0.88,0.9,0.92,0.93,Symptoms and early detection
+30,1,Qwen3.5-9B,0.5,0.6,0.5,0.7,Symptoms and early detection
+30,1,TigerLLM-9B,0.76,0.8,0.9,0.4,Symptoms and early detection
+30,1,Qwen3.6-35B-A3B,0.65,0.8,0.5,0.8,Symptoms and early detection
+30,1,Gemma-4-26B-A4B,0.93,0.88,0.96,0.95,Symptoms and early detection
+30,1,BanglaDiaRAG,0.92,0.92,0.93,0.93,Symptoms and early detection
+30,2,Qwen3.5-9B,0.65,0.7,0.6,0.75,Symptoms and early detection
+30,2,TigerLLM-9B,0.86,0.9,0.9,0.9,Symptoms and early detection
+30,2,Qwen3.6-35B-A3B,0.85,0.85,0.8,0.9,Symptoms and early detection
+30,2,Gemma-4-26B-A4B,0.9500000000000001,0.9,0.95,0.95,Symptoms and early detection
+30,2,BanglaDiaRAG,0.95,0.95,0.94,0.93,Symptoms and early detection
+31,1,Qwen3.5-9B,0.55,0.6,0.6,0.4,Symptoms and early detection
+31,1,TigerLLM-9B,0.86,0.9,0.9,0.9,Symptoms and early detection
+31,1,Qwen3.6-35B-A3B,0.86,0.85,0.8,0.9,Symptoms and early detection
+31,1,Gemma-4-26B-A4B,0.89,0.89,0.95,0.95,Symptoms and early detection
+31,1,BanglaDiaRAG,0.92,0.93,0.9,0.92,Symptoms and early detection
+31,2,Qwen3.5-9B,0.45,0.65,0.4,0.35,Symptoms and early detection
+31,2,TigerLLM-9B,0.81,0.8,0.9,0.9,Symptoms and early detection
+31,2,Qwen3.6-35B-A3B,0.88,0.85,0.8,0.9,Symptoms and early detection
+31,2,Gemma-4-26B-A4B,0.9,0.88,0.96,0.95,Symptoms and early detection
+31,2,BanglaDiaRAG,0.88,0.9,0.86,0.94,Symptoms and early detection
+32,1,Qwen3.5-9B,0.5,0.6,0.5,0.7,Symptoms and early detection
+32,1,TigerLLM-9B,0.85,0.9,0.9,0.9,Symptoms and early detection
+32,1,Qwen3.6-35B-A3B,0.7,0.8,0.8,0.8,Symptoms and early detection
+32,1,Gemma-4-26B-A4B,0.86,0.9,0.93,0.95,Symptoms and early detection
+32,1,BanglaDiaRAG,0.93,0.92,0.92,0.92,Symptoms and early detection
+32,2,Qwen3.5-9B,0.4,0.55,0.6,0.7,Symptoms and early detection
+32,2,TigerLLM-9B,0.86,0.9,0.9,0.9,Symptoms and early detection
+32,2,Qwen3.6-35B-A3B,0.87,0.85,0.87,0.9,Symptoms and early detection
+32,2,Gemma-4-26B-A4B,0.9,0.92,0.95,0.95,Symptoms and early detection
+32,2,BanglaDiaRAG,0.88,0.86,0.92,0.94,Symptoms and early detection
+33,1,Qwen3.5-9B,0.5,0.8,0.6,0.75,Special situations
+33,1,TigerLLM-9B,0.87,0.9,0.9,0.9,Special situations
+33,1,Qwen3.6-35B-A3B,0.5,0.7,0.4,0.8,Special situations
+33,1,Gemma-4-26B-A4B,0.88,0.92,0.96,0.95,Special situations
+33,1,BanglaDiaRAG,0.8,0.88,0.75,0.86,Special situations
+33,2,Qwen3.5-9B,0.5,0.8,0.6,0.7,Special situations
+33,2,TigerLLM-9B,0.87,0.9,0.9,0.9,Special situations
+33,2,Qwen3.6-35B-A3B,0.6,0.8,0.4,0.8,Special situations
+33,2,Gemma-4-26B-A4B,0.87,0.94,0.96,0.95,Special situations
+33,2,BanglaDiaRAG,0.92,0.94,0.94,0.92,Special situations
+34,1,Qwen3.5-9B,0.2,0.6,0.2,0.4,Special situations
+34,1,TigerLLM-9B,0.88,0.9,0.9,0.9,Special situations
+34,1,Qwen3.6-35B-A3B,0.88,0.9,0.9,0.95,Special situations
+34,1,Gemma-4-26B-A4B,0.64,0.78,0.6,0.45,Special situations
+34,1,BanglaDiaRAG,0.65,0.88,0.8,0.85,Special situations
+34,2,Qwen3.5-9B,0.5,0.7,0.6,0.7,Special situations
+34,2,TigerLLM-9B,0.93,0.9,0.9,0.9,Special situations
+34,2,Qwen3.6-35B-A3B,0.9,0.92,0.9,0.95,Special situations
+34,2,Gemma-4-26B-A4B,0.72,0.82,0.6,0.5,Special situations
+34,2,BanglaDiaRAG,0.92,0.93,0.9,0.92,Special situations
+35,1,Qwen3.5-9B,0.6,0.6,0.6,0.85,Special situations
+35,1,TigerLLM-9B,0.86,0.9,0.9,0.9,Special situations
+35,1,Qwen3.6-35B-A3B,0.8,0.88,0.8,0.9,Special situations
+35,1,Gemma-4-26B-A4B,0.87,0.88,0.94,0.95,Special situations
+35,1,BanglaDiaRAG,0.88,0.92,0.85,0.88,Special situations
+35,2,Qwen3.5-9B,0.7,0.8,0.7,0.85,Special situations
+35,2,TigerLLM-9B,0.91,0.9,0.9,0.9,Special situations
+35,2,Qwen3.6-35B-A3B,0.75,0.85,0.8,0.9,Special situations
+35,2,Gemma-4-26B-A4B,0.88,0.9,0.95,0.95,Special situations
+35,2,BanglaDiaRAG,0.9,0.86,0.92,0.92,Special situations
+36,1,Qwen3.5-9B,0.3,0.6,0.4,0.4,Special situations
+36,1,TigerLLM-9B,0.83,0.8,0.8,0.62,Special situations
+36,1,Qwen3.6-35B-A3B,0.7,0.75,0.85,0.75,Special situations
+36,1,Gemma-4-26B-A4B,0.94,0.94,0.95,0.95,Special situations
+36,1,BanglaDiaRAG,0.92,0.92,0.94,0.93,Special situations
+36,2,Qwen3.5-9B,0.3,0.6,0.4,0.2,Special situations
+36,2,TigerLLM-9B,0.81,0.8,0.8,0.55,Special situations
+36,2,Qwen3.6-35B-A3B,0.8,0.85,0.85,0.9,Special situations
+36,2,Gemma-4-26B-A4B,0.92,0.95,0.95,0.95,Special situations
+36,2,BanglaDiaRAG,0.6,0.85,0.5,0.93,Special situations
+37,1,Qwen3.5-9B,0.9,0.85,0.8,0.85,Special situations
+37,1,TigerLLM-9B,0.91,0.9,0.9,0.9,Special situations
+37,1,Qwen3.6-35B-A3B,0.9,0.9,0.88,0.95,Special situations
+37,1,Gemma-4-26B-A4B,0.89,0.91,0.93,0.95,Special situations
+37,1,BanglaDiaRAG,0.92,0.88,0.94,0.93,Special situations
+37,2,Qwen3.5-9B,0.5,0.6,0.6,0.3,Special situations
+37,2,TigerLLM-9B,0.91,0.9,0.9,0.9,Special situations
+37,2,Qwen3.6-35B-A3B,0.9,0.9,0.85,0.95,Special situations
+37,2,Gemma-4-26B-A4B,0.87,0.89,0.94,0.95,Special situations
+37,2,BanglaDiaRAG,0.82,0.85,0.85,0.9,Special situations
+38,1,Qwen3.5-9B,0.9,0.9,0.85,0.9,Special situations
+38,1,TigerLLM-9B,0.87,0.8,0.8,0.6,Special situations
+38,1,Qwen3.6-35B-A3B,0.9,0.95,0.88,0.9,Special situations
+38,1,Gemma-4-26B-A4B,0.85,0.87,0.93,0.98,Special situations
+38,1,BanglaDiaRAG,0.92,0.9,0.92,0.92,Special situations
+38,2,Qwen3.5-9B,0.65,0.8,0.6,0.85,Special situations
+38,2,TigerLLM-9B,0.83,0.8,0.9,0.5,Special situations
+38,2,Qwen3.6-35B-A3B,0.95,0.95,0.92,0.95,Special situations
+38,2,Gemma-4-26B-A4B,0.86,0.9,0.95,0.98,Special situations
+38,2,BanglaDiaRAG,0.92,0.9,0.92,0.94,Special situations
+39,1,Qwen3.5-9B,0.8,0.8,0.8,0.85,Special situations
+39,1,TigerLLM-9B,0.86,0.9,0.9,0.6,Special situations
+39,1,Qwen3.6-35B-A3B,0.85,0.85,0.9,0.85,Special situations
+39,1,Gemma-4-26B-A4B,0.96,0.88,0.96,0.95,Special situations
+39,1,BanglaDiaRAG,0.9,0.94,0.94,0.93,Special situations
+39,2,Qwen3.5-9B,0.75,0.8,0.65,0.8,Special situations
+39,2,TigerLLM-9B,0.81,0.85,0.9,0.5,Special situations
+39,2,Qwen3.6-35B-A3B,0.92,0.95,0.9,0.9,Special situations
+39,2,Gemma-4-26B-A4B,0.9400000000000001,0.9,0.95,0.95,Special situations
+39,2,BanglaDiaRAG,0.94,0.93,0.94,0.95,Special situations
+40,1,Qwen3.5-9B,0.1,0.4,0.3,0.35,Special situations
+40,1,TigerLLM-9B,0.89,0.9,0.85,0.9,Special situations
+40,1,Qwen3.6-35B-A3B,0.4,0.7,0.4,0.5,Special situations
+40,1,Gemma-4-26B-A4B,0.9,0.9,0.97,0.95,Special situations
+40,1,BanglaDiaRAG,0.65,0.85,0.5,0.9,Special situations
+40,2,Qwen3.5-9B,0.2,0.4,0.3,0.3,Special situations
+40,2,TigerLLM-9B,0.61,0.7,0.5,0.4,Special situations
+40,2,Qwen3.6-35B-A3B,0.4,0.7,0.4,0.5,Special situations
+40,2,Gemma-4-26B-A4B,0.87,0.92,0.96,0.95,Special situations
+40,2,BanglaDiaRAG,0.9,0.75,0.88,0.95,Special situations

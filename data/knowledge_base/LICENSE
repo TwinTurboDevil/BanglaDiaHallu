@@ -1,0 +1,59 @@
+Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)
+
+Copyright (c) 2026 Mahfuz Anam
+
+This knowledge base dataset (`bangla_guidelines_new.md`), including its curation, translation into Bangla, structural chunking, and metadata formatting, is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material for academic benchmarks and research.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes without prior permission.
+
+Full License Text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+================================================================================
+THIRD-PARTY COPYRIGHT NOTICE & LICENSING TERMS
+================================================================================
+
+This dataset contains adapted and translated material derived from third-party clinical guidelines, government health resources, and scientific publications. The copyright and licensing status of each underlying source remains governed by its respective original license:
+
+1. Directorate General of Health Services (DGHS), Bangladesh:
+   - National Guideline on Diabetes Mellitus (2023) and National Protocol for Management of Diabetes and Hypertension (2018–19).
+   - Reuse remains subject to the applicable terms of the original source.
+
+2. Diabetes Association of Bangladesh (BADAS):
+   - BADAS Guideline (2019) and Guideline for Type 2 Diabetes Mellitus in Bangladesh (2003).
+   - Reuse remains subject to the applicable terms of the original source.
+
+3. World Health Organization (WHO):
+   - WHO Guideline on Carbohydrate Intake (2023), governed by CC BY-NC-SA 3.0 IGO.
+   - Non-commercial sharing, adaptation, and redistribution are permitted with attribution and ShareAlike.
+   - Any translation is unofficial and does not imply WHO endorsement.
+
+4. National Health Service (NHS), UK:
+   - NHS starchy foods and carbohydrates guidelines, licensed under Open Government Licence (OGL) v3.0.
+   - Copying and adaptation are permitted subject to NHS terms, attribution, and non-endorsement conditions.
+
+5. Centers for Disease Control and Prevention (CDC), USA:
+   - CDC health material (Smoking and Diabetes, Road to Health Toolkit, Diabetes Plate Method).
+   - Mostly public domain, subject to CDC attribution and non-endorsement requirements.
+
+6. National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK, NIH), USA:
+   - NIDDK educational resources (Healthy Living with Diabetes).
+   - Copyright-free website content reproducible with attribution, subject to stated NIDDK conditions.
+
+7. Open Access Scientific Literature (CC BY 4.0):
+   - Meng et al. (2019) (Effects and Mechanisms of Tea for the Prevention and Management of Diabetes Mellitus and Diabetic Complications).
+   - Amoah et al. (2025) (Glycaemic and satiety responses associated with the consumption of parboiled and braised rice).
+   - Free reuse, adaptation, translation, and redistribution permitted under Creative Commons Attribution 4.0 International.
+
+The CC BY-NC 4.0 license applied to the authors' original contributions does not override, replace, or expand the rights granted by any third-party source license.
+
+================================================================================
+MEDICAL DISCLAIMER
+================================================================================
+
+This dataset is compiled strictly for computational linguistics, Natural Language Processing (NLP), and Retrieval-Augmented Generation (RAG) research purposes. It is NOT intended to be used as direct medical advice, clinical decision support, or a replacement for professional healthcare consultation.

@@ -1,0 +1,41 @@
+question,domain,question_bn,question_en
+1,Dietary,ডায়াবেটিস হলে কি আমি দিনে তিন বেলা ভাত খেতে পারব নাকি ভাতের বদলে রুটি খাওয়া যাবে?, "If I have diabetes, can I eat rice at all three meals a day, or can I eat roti (flatbread) instead of rice?"
+2,Dietary,"ডায়াবেটিস হলে কি আমার জন্য মিষ্টি ফল (যেমন: আম, কাঁঠাল) খাওয়া একদমই নিষেধ, নাকি নির্দিষ্ট পরিমাণে খাওয়া যাবে?", "If I have diabetes, are sweet fruits (for example, mango and jackfruit) completely forbidden for me, or can I eat them in limited amounts?"
+3,Dietary,ডায়াবেটিস হলে কি আমি চিনি ছাড়া চা খেতে পারবো আর খেতে পারলে দিনে কত কাপ খেতে পারবো?, "If I have diabetes, can I drink tea without sugar, and if so, how many cups a day?"
+4,Dietary,ডায়াবেটিস রোগীর জন্য কি মধু বা গুড় চিনির বিকল্প হিসেবে ব্যবহার করা নিরাপদ?, Is it safe for a person with diabetes to use honey or jaggery (gur) as a substitute for sugar?
+5,Dietary,ডায়াবেটিস হলে কি আমি মিষ্টি খেতে পারবো?, "If I have diabetes, can I eat sweets?"
+6,Dietary,ডায়াবেটিস রোগীর জন্য কি কি শাক-সবজি খাওয়া ভালো?, Which vegetables and leafy greens are good for a person with diabetes?
+7,Dietary,ডায়াবেটিসের রোগীরা ইফতারে খেজুর বা শরবত খেতে পারবে কি?, Can people with diabetes eat dates or drink sharbat (sweetened drinks) at iftar?
+8,Dietary,ডায়াবেটিস হলে আমি কি কি খাবো আর কি কি এড়িয়ে চলবো?, "If I have diabetes, what should I eat and what should I avoid?"
+9,Dietary,ডায়াবেটিস রোগীর জন্য ডায়াবেটিস ডায়েট-চার্ট কেমন হওয়া উচিত?, What should a diet chart for a person with diabetes look like?
+10,Medication and insulin,"আমি ডায়াবেটিসের রোগী, আমাকে কি ইনসুলিন নিতেই হবে নাকি ট্যাবলেট খেলেই চলবে?","I have diabetes; do I have to take insulin, or will tablets be enough?"
+11,Medication and insulin,ডায়াবেটিস হলে কোন ওষুধ কতদিন খেতে হবে?, "If I have diabetes, which medicines do I need to take, and for how long?"
+12,Medication and insulin,"আমি ডায়াবেটিসের রোগী, আমার HbA1c কত হলে ভালো বলা যাবে?", "I have diabetes; what HbA1c level would be considered good?"
+13,Medication and insulin,ডায়াবেটিসের রোগীরা ওষুধ খেলে কি সব ধরনের খাবার খেতে পারবে?, "If people with diabetes take their medicines, can they eat all kinds of food?"
+14,Medication and insulin,ডায়াবেটিসের ওষুধ কি কিডনি বা হার্ট এর জন্য ক্ষতিকর?, Are diabetes medicines harmful to the kidneys or the heart?
+15,Medication and insulin,ওষুধ না খেয়ে শুধু ডায়েট মেনে চললে কি ডায়াবেটিস নিয়ন্ত্রণে রাখা সম্ভব?, Is it possible to keep diabetes under control with diet alone, without taking medicines?
+16,Medication and insulin,ডায়াবেটিসের চিকিৎসায় ভেজষ বা হোমিওপ্যাথিক কি ভালো কাজ করে?, Do herbal or homeopathic remedies work well for treating diabetes?
+17,Lifestyle and exercise,"ডায়াবেটিস হলে কী ধরনের ব্যায়াম করবো (যেমন হাঁটা, জগিং ইত্যাদি) এবং দিনে কতক্ষণ ব্যায়াম করা উচিত?", "If I have diabetes, what kind of exercise should I do (for example, walking or jogging), and for how long each day?"
+18,Lifestyle and exercise,ডায়াবেটিস হলে কি শরীরের ওজন কমানো জরুরি?, "If I have diabetes, is it important to lose weight?"
+19,Lifestyle and exercise,ডায়াবেটিস রোগীদের জন্য দিনে কতক্ষণ হাঁটা উচিত?, How long should people with diabetes walk each day?
+20,Lifestyle and exercise,ডায়াবেটিস রোগীদের জন্য খালি পেটে হাঁটা ভালো নাকি খাওয়ার পর?, "Is it better for people with diabetes to walk on an empty stomach or after eating?"
+21,Lifestyle and exercise,ডায়াবেটিস রোগীরা কি স্মোকিং করতে পারবে?, Can people with diabetes smoke?
+22,Complications and safety,ডায়াবেটিস থেকে কী কী সমস্যা বা জটিলতা হতে পারে?, What problems or complications can diabetes cause?
+23,Complications and safety,ডায়াবেটিস হলে পায়ের কেন বেশি যত্ন নিতে হয়?, Why do people with diabetes need to take extra care of their feet?
+24,Complications and safety,ডায়াবেটিস রোগীর সুগার কমে গেলে কিভাবে বুঝব এবং কী কী পদক্ষেপ নেব?, "How can I tell that the blood sugar of a person with diabetes has fallen, and what should I do?"
+25,Complications and safety,ডায়াবেটিস থাকলে কি হার্ট অ্যাটাকের ঝুঁকি বেড়ে যায়?, Does having diabetes increase the risk of a heart attack?
+26,Complications and safety,ডায়াবেটিস রোগীর মাসে অন্তত কতবার সুগার পরীক্ষা করা উচিত?, At least how many times a month should a person with diabetes check their blood sugar?
+27,Symptoms and early detection,"আমার বারবার প্রস্রাব হচ্ছে এবং বেশি পিপাসা লাগছে, এটা কি ডায়াবেটিসের লক্ষণ?", I am urinating frequently and feel very thirsty; is this a sign of diabetes?
+28,Symptoms and early detection,"হঠাৎ করে ওজন কমে যাচ্ছে, এটা কি ডায়াবেটিসের কারণে হতে পারে?", I am suddenly losing weight; could this be caused by diabetes?
+29,Symptoms and early detection,"সব সময় ক্লান্ত লাগে, এটা কি ডায়াবেটিসের লক্ষণ?", I feel tired all the time; is this a sign of diabetes?
+30,Symptoms and early detection,"চোখে ঝাপসা দেখা যাচ্ছে, এটা কি ডায়াবেটিস হওয়ার কারণে হয়েছে?", My vision is blurred; is this because of diabetes?
+31,Symptoms and early detection,"শরীরে ক্ষত হলে দেরিতে শুকায়, এটা কি ডায়াবেটিসের লক্ষণ?", My wounds heal slowly; is this a sign of diabetes?
+32,Symptoms and early detection,"আমার সুগার লেভেল মাঝে মাঝে বেশি হয়, মাঝে মাঝে স্বাভাবিক থাকে এটা কি ডায়াবেটিসের লক্ষন?", My sugar level is sometimes high and sometimes normal; is this a sign of diabetes?
+33,Special situations,ডায়াবেটিস রোগীর জন্য রমজান মাসে রোজা রেখে ইনসুলিন বা ওষুধ সমন্বয় করার সঠিক নিয়ম কী?, What is the correct way for a person with diabetes to adjust insulin or medicines while fasting during Ramadan?
+34,Special situations,গর্ভাবস্থায় ডায়াবেটিস কেন হয় বা হলে কি তা বাচ্চার ক্ষতি করতে পারে?, "Why does diabetes occur during pregnancy, and can it harm the baby?"
+35,Special situations,আমার বাবা-মায়ের ডায়াবেটিস আছে আমার হওয়ার সম্ভাবনা কতটুকু?, My parents have diabetes; how likely am I to develop it?
+36,Special situations,ডায়াবেটিস হলে কি প্রেগনেন্সিতে কোন সমস্যা হয়?, Does having diabetes cause any problems in pregnancy?
+37,Special situations,ডায়াবেটিস কি বংশগত জটিলতা?, Is diabetes a hereditary condition?
+38,Special situations,ডায়াবেটিস হলে কি আমি স্বাভাবিক জীবন যাপন করতে পারব?, "If I have diabetes, can I lead a normal life?"
+39,Special situations,ডায়াবেটিস কি কোনোদিনও ভালো হয় না?, Is diabetes never cured?
+40,Special situations,ডায়াবেটিস রোগীর জন্য রমজান মাসে ডায়েট-চার্ট কেমন হবে?, What should the diet chart of a person with diabetes be during Ramadan?

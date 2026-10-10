@@ -1,0 +1,31 @@
+domain,config,k,n,ma,hr
+Complications and safety,BanglaDiaRAG,2,10,0.861,0.2
+Complications and safety,Gemma-4-26B-A4B,0,10,0.922,0.0
+Complications and safety,Qwen3.5-9B,8,10,0.495,0.8
+Complications and safety,Qwen3.6-35B-A3B,0,10,0.884,0.0
+Complications and safety,TigerLLM-9B,0,10,0.8480000000000001,0.0
+Dietary,BanglaDiaRAG,2,18,0.8672222222222222,0.1111111111111111
+Dietary,Gemma-4-26B-A4B,1,18,0.8561111111111112,0.05555555555555555
+Dietary,Qwen3.5-9B,17,18,0.4277777777777778,0.9444444444444444
+Dietary,Qwen3.6-35B-A3B,12,18,0.6144444444444445,0.6666666666666666
+Dietary,TigerLLM-9B,2,18,0.8205555555555555,0.1111111111111111
+Lifestyle and exercise,BanglaDiaRAG,1,10,0.8800000000000001,0.1
+Lifestyle and exercise,Gemma-4-26B-A4B,0,10,0.908,0.0
+Lifestyle and exercise,Qwen3.5-9B,6,10,0.59,0.6
+Lifestyle and exercise,Qwen3.6-35B-A3B,0,10,0.885,0.0
+Lifestyle and exercise,TigerLLM-9B,0,10,0.865,0.0
+Medication and insulin,BanglaDiaRAG,1,14,0.8871428571428571,0.07142857142857142
+Medication and insulin,Gemma-4-26B-A4B,0,14,0.8914285714285715,0.0
+Medication and insulin,Qwen3.5-9B,10,14,0.6321428571428571,0.7142857142857143
+Medication and insulin,Qwen3.6-35B-A3B,1,14,0.8564285714285714,0.07142857142857142
+Medication and insulin,TigerLLM-9B,0,14,0.8364285714285714,0.0
+Special situations,BanglaDiaRAG,3,16,0.8475,0.1875
+Special situations,Gemma-4-26B-A4B,1,16,0.86625,0.0625
+Special situations,Qwen3.5-9B,11,16,0.525,0.6875
+Special situations,Qwen3.6-35B-A3B,4,16,0.759375,0.25
+Special situations,TigerLLM-9B,1,16,0.853125,0.0625
+Symptoms and early detection,BanglaDiaRAG,0,12,0.9133333333333334,0.0
+Symptoms and early detection,Gemma-4-26B-A4B,0,12,0.8966666666666666,0.0
+Symptoms and early detection,Qwen3.5-9B,10,12,0.5541666666666667,0.8333333333333334
+Symptoms and early detection,Qwen3.6-35B-A3B,1,12,0.82,0.08333333333333333
+Symptoms and early detection,TigerLLM-9B,0,12,0.8341666666666666,0.0

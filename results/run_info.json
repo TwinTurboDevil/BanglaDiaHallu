@@ -1,0 +1,8 @@
+{
+  "n_questions": 40,
+  "n_responses": 400,
+  "seed": 20260929,
+  "n_boot": 10000,
+  "n_perm": 200000,
+  "threshold": 0.7
+}
