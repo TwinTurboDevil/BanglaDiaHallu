@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1302843729.svg)](https://doi.org/10.5281/zenodo.23275649)
+
 # BanglaDiaHallu
 
 Data and code for the article
